@@ -102,6 +102,8 @@ menu "Emulators"
          source "$BR2_EXTERNAL_RECALBOX_PATH/package/vice/Config.in"
          source "$BR2_EXTERNAL_RECALBOX_PATH/package/solarus-recalbox/Config.in"
          source "$BR2_EXTERNAL_RECALBOX_PATH/package/supermodel/Config.in"
+         source "$BR2_EXTERNAL_RECALBOX_PATH/package/citra-emu/Config.in"
+
 
 if BR2_PACKAGE_RETROARCH
 menu "Libretro Cores"
