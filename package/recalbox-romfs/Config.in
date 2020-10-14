@@ -4,6 +4,7 @@ source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs/Config
 menu "Rom dirs and xml"
 source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-2048/Config.in"
 source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-3do/Config.in"
+source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-3ds/Config.in"
 source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-64dd/Config.in"
 source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-amiga1200/Config.in"
 source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-amiga600/Config.in"
@@ -112,5 +113,4 @@ source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-x1/Con
 source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-x68000/Config.in"
 source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-zx81/Config.in"
 source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-zxspectrum/Config.in"
-source "$BR2_EXTERNAL_RECALBOX_PATH/package/recalbox-romfs/recalbox-romfs-3ds/Config.in"
 endmenu
