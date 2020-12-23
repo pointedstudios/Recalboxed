@@ -353,6 +353,7 @@ All notable changes to this project will be documented in this file.
 - Bump FBNeo
 - Fix videosnaps on x64 gpus
 - Bump Retroarch
+- Improved retroarch support cd 
 
 ## [6.1]
 - Replacement of the neogeo intro video
