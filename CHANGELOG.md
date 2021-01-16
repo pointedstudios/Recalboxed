@@ -88,6 +88,8 @@ All notable changes to this project will be documented in this file.
 - Fix wifi support for open, WPA-PSK-SHA256 and WPA3-Personal (#1492)
 - Fix 8Bitdo NES30 Pro rev 1 mapping
 - Fix name for palmos rom
+- Make /boot/config.txt part of Recalbox distribution. User settings moved to /boot/recalbox-user-config.txt
+- Sort Shaders
 
 ## [7.1.1-Reloaded]
 - Fix abnormally long boots
