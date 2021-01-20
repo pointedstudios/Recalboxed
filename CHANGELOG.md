@@ -89,6 +89,7 @@ All notable changes to this project will be documented in this file.
 - Fix 8Bitdo NES30 Pro rev 1 mapping
 - Fix name for palmos rom
 - Rework overclocking
+- Impreved menu ergonomy & pad per player manement in ES
 
 ## [7.1.1-Reloaded]
 - Fix abnormally long boots
